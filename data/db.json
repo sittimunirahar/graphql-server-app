@@ -1,0 +1,11 @@
+{
+    "students": [
+      { "id": "1", "name": "Alice", "collegeId": "100" },
+      { "id": "2", "name": "Bob", "collegeId": "101" }
+    ],
+    "colleges": [
+      { "id": "100", "name": "Engineering College", "location": "City Y" },
+      { "id": "101", "name": "Arts College", "location": "City Z" }
+    ]
+  }
+  
